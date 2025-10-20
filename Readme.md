@@ -1,6 +1,6 @@
-# University Management System Authentication Service
+# Takoya Management System Authentication Service
 
-This is the documentation for the Authentication Service component of the University Management System. The Authentication Service provides authentication and authorization functionalities for the three main roles in the system: Admin, Student, and Faculty. It is built using TypeScript, Express.js, Zod validation, and MongoDB.
+This is the documentation for the Authentication Service component of the Takoya University Management System. The Authentication Service provides authentication and authorization functionalities for the three main roles in the system: Admin, Student, and Faculty. It is built using TypeScript, Express.js, Zod validation, and MongoDB.
 
 ## Functional Requirements
 
@@ -95,4 +95,3 @@ This is the documentation for the Authentication Service component of the Univer
 - `POST /auth/change-password`
 - `POST /auth/refresh-token`
 
-Postman Documenttaion: [Click Here](https://documenter.getpostman.com/view/26682150/2s93zB72V9#acc25f08-de78-478b-809d-837ce239d2b3)
